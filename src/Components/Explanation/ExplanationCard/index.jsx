@@ -22,7 +22,7 @@ export default function ExplanationCard() {
 
             <View style={styles.explanationContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Money.png")}
+                    source={require("../../../assets/icons/moneyIcon.png")}
                     style={styles.icon}
                 />
                 <Text style={styles.description}>
@@ -33,7 +33,7 @@ export default function ExplanationCard() {
 
             <View style={styles.explanationContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Body.png")}
+                    source={require("../../../assets/icons/bodyIcon.png")}
                     style={styles.icon}
                 />
                 <Text style={styles.description}>
@@ -44,7 +44,7 @@ export default function ExplanationCard() {
 
             <View style={styles.explanationContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Fun.png")}
+                    source={require("../../../assets/icons/funIcon.png")}
                     style={styles.icon}
                 />
                 <Text style={styles.description}>

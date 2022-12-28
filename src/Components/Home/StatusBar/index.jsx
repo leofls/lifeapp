@@ -20,7 +20,7 @@ export default function StatusBar() {
             </View>
             <View style={styles.StatusBarContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Money.png")}
+                    source={require("../../../assets/icons/moneyIcon.png")}
                     style={styles.icon}
                 />
                 <ProgressBar 
@@ -31,7 +31,7 @@ export default function StatusBar() {
             </View>
             <View style={styles.StatusBarContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Body.png")}
+                    source={require("../../../assets/icons/bodyIcon.png")}
                     style={styles.icon}
                 />
                 <ProgressBar 
@@ -42,7 +42,7 @@ export default function StatusBar() {
             </View>
             <View style={styles.StatusBarContainer}>
                 <Image 
-                    source={require("../../../assets/icons/Fun.png")}
+                    source={require("../../../assets/icons/funIcon.png")}
                     style={styles.icon}
                 />
                 <ProgressBar 
